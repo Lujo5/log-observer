@@ -1,0 +1,906 @@
+Jan  8 06:25:09 raspberrypi CRON[3324]: pam_unix(cron:session): session closed for user root
+Jan  8 06:39:01 raspberrypi CRON[3530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 06:39:01 raspberrypi CRON[3530]: pam_unix(cron:session): session closed for user root
+Jan  8 06:47:01 raspberrypi CRON[3542]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 06:47:07 raspberrypi CRON[3542]: pam_unix(cron:session): session closed for user root
+Jan  8 07:09:01 raspberrypi CRON[3552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 07:09:01 raspberrypi CRON[3552]: pam_unix(cron:session): session closed for user root
+Jan  8 07:17:01 raspberrypi CRON[3565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 07:17:01 raspberrypi CRON[3565]: pam_unix(cron:session): session closed for user root
+Jan  8 07:39:01 raspberrypi CRON[3575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 07:39:02 raspberrypi CRON[3575]: pam_unix(cron:session): session closed for user root
+Jan  8 08:09:01 raspberrypi CRON[3589]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 08:09:01 raspberrypi CRON[3589]: pam_unix(cron:session): session closed for user root
+Jan  8 08:17:01 raspberrypi CRON[3602]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 08:17:01 raspberrypi CRON[3602]: pam_unix(cron:session): session closed for user root
+Jan  8 08:39:01 raspberrypi CRON[3612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 08:39:01 raspberrypi CRON[3612]: pam_unix(cron:session): session closed for user root
+Jan  8 09:09:01 raspberrypi CRON[3626]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 09:09:01 raspberrypi CRON[3626]: pam_unix(cron:session): session closed for user root
+Jan  8 09:17:01 raspberrypi CRON[3639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 09:17:01 raspberrypi CRON[3639]: pam_unix(cron:session): session closed for user root
+Jan  8 09:39:01 raspberrypi CRON[3651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 09:39:01 raspberrypi CRON[3651]: pam_unix(cron:session): session closed for user root
+Jan  8 10:09:01 raspberrypi CRON[3663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 10:09:02 raspberrypi CRON[3663]: pam_unix(cron:session): session closed for user root
+Jan  8 10:17:01 raspberrypi CRON[3675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 10:17:01 raspberrypi CRON[3675]: pam_unix(cron:session): session closed for user root
+Jan  8 10:39:01 raspberrypi CRON[3685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 10:39:01 raspberrypi CRON[3685]: pam_unix(cron:session): session closed for user root
+Jan  8 11:09:01 raspberrypi CRON[3700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 11:09:01 raspberrypi CRON[3700]: pam_unix(cron:session): session closed for user root
+Jan  8 11:17:01 raspberrypi CRON[3714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 11:17:01 raspberrypi CRON[3714]: pam_unix(cron:session): session closed for user root
+Jan  8 11:39:01 raspberrypi CRON[3725]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 11:39:02 raspberrypi CRON[3725]: pam_unix(cron:session): session closed for user root
+Jan  8 12:09:01 raspberrypi CRON[3747]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 12:09:01 raspberrypi CRON[3747]: pam_unix(cron:session): session closed for user root
+Jan  8 12:17:01 raspberrypi CRON[3760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 12:17:01 raspberrypi CRON[3760]: pam_unix(cron:session): session closed for user root
+Jan  8 12:39:01 raspberrypi CRON[3770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 12:39:02 raspberrypi CRON[3770]: pam_unix(cron:session): session closed for user root
+Jan  8 13:09:01 raspberrypi CRON[3784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 13:09:01 raspberrypi CRON[3784]: pam_unix(cron:session): session closed for user root
+Jan  8 13:17:01 raspberrypi CRON[3798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 13:17:01 raspberrypi CRON[3798]: pam_unix(cron:session): session closed for user root
+Jan  8 13:39:01 raspberrypi CRON[3808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 13:39:01 raspberrypi CRON[3808]: pam_unix(cron:session): session closed for user root
+Jan  8 14:09:01 raspberrypi CRON[3820]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 14:09:02 raspberrypi CRON[3820]: pam_unix(cron:session): session closed for user root
+Jan  8 14:17:01 raspberrypi CRON[3832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 14:17:01 raspberrypi CRON[3832]: pam_unix(cron:session): session closed for user root
+Jan  8 14:39:01 raspberrypi CRON[3842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 14:39:01 raspberrypi CRON[3842]: pam_unix(cron:session): session closed for user root
+Jan  8 15:09:01 raspberrypi CRON[3856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 15:09:02 raspberrypi CRON[3856]: pam_unix(cron:session): session closed for user root
+Jan  8 15:17:01 raspberrypi CRON[3869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 15:17:01 raspberrypi CRON[3869]: pam_unix(cron:session): session closed for user root
+Jan  8 15:39:01 raspberrypi CRON[3879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 15:39:01 raspberrypi CRON[3879]: pam_unix(cron:session): session closed for user root
+Jan  8 16:09:01 raspberrypi CRON[3893]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 16:09:01 raspberrypi CRON[3893]: pam_unix(cron:session): session closed for user root
+Jan  8 16:17:01 raspberrypi CRON[3906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 16:17:01 raspberrypi CRON[3906]: pam_unix(cron:session): session closed for user root
+Jan  8 16:39:01 raspberrypi CRON[3917]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 16:39:02 raspberrypi CRON[3917]: pam_unix(cron:session): session closed for user root
+Jan  8 17:09:01 raspberrypi CRON[3932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 17:09:01 raspberrypi CRON[3932]: pam_unix(cron:session): session closed for user root
+Jan  8 17:17:01 raspberrypi CRON[3948]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 17:17:01 raspberrypi CRON[3948]: pam_unix(cron:session): session closed for user root
+Jan  8 17:39:01 raspberrypi CRON[3958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 17:39:02 raspberrypi CRON[3958]: pam_unix(cron:session): session closed for user root
+Jan  8 17:55:54 raspberrypi sshd[3970]: Accepted password for luka from 192.168.5.10 port 58886 ssh2
+Jan  8 17:55:54 raspberrypi sshd[3970]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan  8 18:06:32 raspberrypi sshd[3970]: pam_unix(sshd:session): session closed for user luka
+Jan  8 18:09:01 raspberrypi CRON[3992]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 18:09:01 raspberrypi CRON[3992]: pam_unix(cron:session): session closed for user root
+Jan  8 18:14:14 raspberrypi sshd[4004]: Connection closed by 192.168.5.10 [preauth]
+Jan  8 18:14:43 raspberrypi sshd[4009]: Accepted password for luka from 192.168.5.10 port 59443 ssh2
+Jan  8 18:14:43 raspberrypi sshd[4009]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan  8 18:17:01 raspberrypi CRON[4043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 18:17:01 raspberrypi CRON[4043]: pam_unix(cron:session): session closed for user root
+Jan  8 18:17:39 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/sbin/service httpd status
+Jan  8 18:17:39 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  8 18:17:39 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  8 18:17:45 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/sbin/service http status
+Jan  8 18:17:45 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  8 18:17:45 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  8 18:17:49 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/sbin/service apache status
+Jan  8 18:17:49 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  8 18:17:49 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  8 18:24:52 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/vi /var/log/syslog
+Jan  8 18:24:52 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  8 18:39:01 raspberrypi CRON[4079]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 18:39:01 raspberrypi CRON[4079]: pam_unix(cron:session): session closed for user root
+Jan  8 18:44:49 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  8 18:44:51 raspberrypi sshd[4009]: pam_unix(sshd:session): session closed for user luka
+Jan  8 19:09:01 raspberrypi CRON[4092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 19:09:02 raspberrypi CRON[4092]: pam_unix(cron:session): session closed for user root
+Jan  8 19:17:01 raspberrypi CRON[4105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 19:17:01 raspberrypi CRON[4105]: pam_unix(cron:session): session closed for user root
+Jan  8 19:25:07 raspberrypi sshd[4122]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=93-138-103-244.adsl.net.t-com.hr  user=emanuel
+Jan  8 19:25:09 raspberrypi sshd[4122]: Failed password for emanuel from 93.138.103.244 port 51891 ssh2
+Jan  8 19:25:14 raspberrypi sshd[4122]: Failed password for emanuel from 93.138.103.244 port 51891 ssh2
+Jan  8 19:25:20 raspberrypi sshd[4122]: Accepted password for emanuel from 93.138.103.244 port 51891 ssh2
+Jan  8 19:25:20 raspberrypi sshd[4122]: pam_unix(sshd:session): session opened for user emanuel by (uid=0)
+Jan  8 19:25:34 raspberrypi sudo: pam_unix(sudo:auth): authentication failure; logname=emanuel uid=1005 euid=0 tty=/dev/pts/0 ruser=emanuel rhost=  user=emanuel
+Jan  8 19:25:48 raspberrypi sudo:  emanuel : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/passwd emanuel
+Jan  8 19:25:48 raspberrypi sudo: unable to execute /usr/sbin/sendmail: No such file or directory
+Jan  8 19:26:03 raspberrypi sudo:  emanuel : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/passwd emanuel
+Jan  8 19:26:03 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by emanuel(uid=0)
+Jan  8 19:26:09 raspberrypi passwd[4140]: pam_unix(passwd:chauthtok): password changed for emanuel
+Jan  8 19:26:09 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  8 19:26:17 raspberrypi sshd[4122]: pam_unix(sshd:session): session closed for user emanuel
+Jan  8 19:39:01 raspberrypi CRON[4141]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 19:39:01 raspberrypi CRON[4141]: pam_unix(cron:session): session closed for user root
+Jan  8 20:09:01 raspberrypi CRON[4154]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 20:09:02 raspberrypi CRON[4154]: pam_unix(cron:session): session closed for user root
+Jan  8 20:17:01 raspberrypi CRON[4167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 20:17:01 raspberrypi CRON[4167]: pam_unix(cron:session): session closed for user root
+Jan  8 20:39:01 raspberrypi CRON[4177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 20:39:01 raspberrypi CRON[4177]: pam_unix(cron:session): session closed for user root
+Jan  8 21:09:01 raspberrypi CRON[4190]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 21:09:02 raspberrypi CRON[4190]: pam_unix(cron:session): session closed for user root
+Jan  8 21:17:01 raspberrypi CRON[4203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 21:17:01 raspberrypi CRON[4203]: pam_unix(cron:session): session closed for user root
+Jan  8 21:39:01 raspberrypi CRON[4213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 21:39:01 raspberrypi CRON[4213]: pam_unix(cron:session): session closed for user root
+Jan  8 22:09:01 raspberrypi CRON[4225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 22:09:02 raspberrypi CRON[4225]: pam_unix(cron:session): session closed for user root
+Jan  8 22:17:01 raspberrypi CRON[4237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 22:17:01 raspberrypi CRON[4237]: pam_unix(cron:session): session closed for user root
+Jan  8 22:39:01 raspberrypi CRON[4257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 22:39:01 raspberrypi CRON[4257]: pam_unix(cron:session): session closed for user root
+Jan  8 23:09:01 raspberrypi CRON[4269]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 23:09:01 raspberrypi CRON[4269]: pam_unix(cron:session): session closed for user root
+Jan  8 23:17:01 raspberrypi CRON[4282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 23:17:01 raspberrypi CRON[4282]: pam_unix(cron:session): session closed for user root
+Jan  8 23:39:01 raspberrypi CRON[4293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  8 23:39:01 raspberrypi CRON[4293]: pam_unix(cron:session): session closed for user root
+Jan  9 00:09:01 raspberrypi CRON[4306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 00:09:01 raspberrypi CRON[4306]: pam_unix(cron:session): session closed for user root
+Jan  9 00:17:01 raspberrypi CRON[4319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 00:17:01 raspberrypi CRON[4319]: pam_unix(cron:session): session closed for user root
+Jan  9 00:39:01 raspberrypi CRON[4329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 00:39:02 raspberrypi CRON[4329]: pam_unix(cron:session): session closed for user root
+Jan  9 01:09:01 raspberrypi CRON[4342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 01:09:01 raspberrypi CRON[4342]: pam_unix(cron:session): session closed for user root
+Jan  9 01:17:01 raspberrypi CRON[4355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 01:17:01 raspberrypi CRON[4355]: pam_unix(cron:session): session closed for user root
+Jan  9 01:39:01 raspberrypi CRON[4365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 01:39:02 raspberrypi CRON[4365]: pam_unix(cron:session): session closed for user root
+Jan  9 02:09:01 raspberrypi CRON[4377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 02:09:01 raspberrypi CRON[4377]: pam_unix(cron:session): session closed for user root
+Jan  9 02:17:01 raspberrypi CRON[4389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 02:17:01 raspberrypi CRON[4389]: pam_unix(cron:session): session closed for user root
+Jan  9 02:39:01 raspberrypi CRON[4399]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 02:39:02 raspberrypi CRON[4399]: pam_unix(cron:session): session closed for user root
+Jan  9 03:09:01 raspberrypi CRON[4411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 03:09:01 raspberrypi CRON[4411]: pam_unix(cron:session): session closed for user root
+Jan  9 03:17:01 raspberrypi CRON[4424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 03:17:01 raspberrypi CRON[4424]: pam_unix(cron:session): session closed for user root
+Jan  9 03:39:01 raspberrypi CRON[4435]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 03:39:01 raspberrypi CRON[4435]: pam_unix(cron:session): session closed for user root
+Jan  9 04:09:01 raspberrypi CRON[4449]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 04:09:02 raspberrypi CRON[4449]: pam_unix(cron:session): session closed for user root
+Jan  9 04:17:01 raspberrypi CRON[4462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 04:17:01 raspberrypi CRON[4462]: pam_unix(cron:session): session closed for user root
+Jan  9 04:39:01 raspberrypi CRON[4472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 04:39:01 raspberrypi CRON[4472]: pam_unix(cron:session): session closed for user root
+Jan  9 05:09:01 raspberrypi CRON[4486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 05:09:02 raspberrypi CRON[4486]: pam_unix(cron:session): session closed for user root
+Jan  9 05:17:01 raspberrypi CRON[4499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 05:17:01 raspberrypi CRON[4499]: pam_unix(cron:session): session closed for user root
+Jan  9 05:39:01 raspberrypi CRON[4509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 05:39:01 raspberrypi CRON[4509]: pam_unix(cron:session): session closed for user root
+Jan  9 06:09:01 raspberrypi CRON[4522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 06:09:02 raspberrypi CRON[4522]: pam_unix(cron:session): session closed for user root
+Jan  9 06:17:01 raspberrypi CRON[4534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 06:17:01 raspberrypi CRON[4534]: pam_unix(cron:session): session closed for user root
+Jan  9 06:25:01 raspberrypi CRON[4544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 06:25:04 raspberrypi CRON[4544]: pam_unix(cron:session): session closed for user root
+Jan  9 06:39:01 raspberrypi CRON[4647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 06:39:01 raspberrypi CRON[4647]: pam_unix(cron:session): session closed for user root
+Jan  9 07:09:01 raspberrypi CRON[4659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 07:09:02 raspberrypi CRON[4659]: pam_unix(cron:session): session closed for user root
+Jan  9 07:17:01 raspberrypi CRON[4672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 07:17:01 raspberrypi CRON[4672]: pam_unix(cron:session): session closed for user root
+Jan  9 07:39:01 raspberrypi CRON[4682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 07:39:01 raspberrypi CRON[4682]: pam_unix(cron:session): session closed for user root
+Jan  9 08:09:01 raspberrypi CRON[4695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 08:09:02 raspberrypi CRON[4695]: pam_unix(cron:session): session closed for user root
+Jan  9 08:17:01 raspberrypi CRON[4708]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 08:17:01 raspberrypi CRON[4708]: pam_unix(cron:session): session closed for user root
+Jan  9 08:39:01 raspberrypi CRON[4718]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 08:39:01 raspberrypi CRON[4718]: pam_unix(cron:session): session closed for user root
+Jan  9 09:09:01 raspberrypi CRON[4731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 09:09:01 raspberrypi CRON[4731]: pam_unix(cron:session): session closed for user root
+Jan  9 09:17:01 raspberrypi CRON[4744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 09:17:01 raspberrypi CRON[4744]: pam_unix(cron:session): session closed for user root
+Jan  9 09:39:02 raspberrypi CRON[4754]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 09:39:02 raspberrypi CRON[4754]: pam_unix(cron:session): session closed for user root
+Jan  9 10:09:01 raspberrypi CRON[4766]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 10:09:01 raspberrypi CRON[4766]: pam_unix(cron:session): session closed for user root
+Jan  9 10:17:01 raspberrypi CRON[4790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 10:17:01 raspberrypi CRON[4790]: pam_unix(cron:session): session closed for user root
+Jan  9 10:39:01 raspberrypi CRON[4800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 10:39:02 raspberrypi CRON[4800]: pam_unix(cron:session): session closed for user root
+Jan  9 11:09:01 raspberrypi CRON[4812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 11:09:01 raspberrypi CRON[4812]: pam_unix(cron:session): session closed for user root
+Jan  9 11:17:01 raspberrypi CRON[4826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 11:17:01 raspberrypi CRON[4826]: pam_unix(cron:session): session closed for user root
+Jan  9 11:35:48 raspberrypi sshd[4836]: Accepted password for luka from 89.164.98.252 port 27344 ssh2
+Jan  9 11:35:48 raspberrypi sshd[4836]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan  9 11:36:27 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/home/luka ; USER=root ; COMMAND=/usr/bin/vi /var/log/syslog
+Jan  9 11:36:27 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  9 11:37:35 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  9 11:38:34 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/sbin/service httpd status
+Jan  9 11:38:34 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  9 11:38:34 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  9 11:39:01 raspberrypi CRON[4887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 11:39:02 raspberrypi CRON[4887]: pam_unix(cron:session): session closed for user root
+Jan  9 11:39:54 raspberrypi sshd[4836]: pam_unix(sshd:session): session closed for user luka
+Jan  9 12:09:01 raspberrypi CRON[5123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 12:09:01 raspberrypi CRON[5123]: pam_unix(cron:session): session closed for user root
+Jan  9 12:17:01 raspberrypi CRON[5136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 12:17:01 raspberrypi CRON[5136]: pam_unix(cron:session): session closed for user root
+Jan  9 12:39:01 raspberrypi CRON[5147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 12:39:01 raspberrypi CRON[5147]: pam_unix(cron:session): session closed for user root
+Jan  9 13:09:01 raspberrypi CRON[5160]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 13:09:02 raspberrypi CRON[5160]: pam_unix(cron:session): session closed for user root
+Jan  9 13:17:01 raspberrypi CRON[5179]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 13:17:01 raspberrypi CRON[5179]: pam_unix(cron:session): session closed for user root
+Jan  9 13:39:01 raspberrypi CRON[5190]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 13:39:01 raspberrypi CRON[5190]: pam_unix(cron:session): session closed for user root
+Jan  9 14:09:01 raspberrypi CRON[5202]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 14:09:02 raspberrypi CRON[5202]: pam_unix(cron:session): session closed for user root
+Jan  9 14:17:01 raspberrypi CRON[5214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 14:17:01 raspberrypi CRON[5214]: pam_unix(cron:session): session closed for user root
+Jan  9 14:39:01 raspberrypi CRON[5227]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 14:39:01 raspberrypi CRON[5227]: pam_unix(cron:session): session closed for user root
+Jan  9 15:09:01 raspberrypi CRON[5239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 15:09:02 raspberrypi CRON[5239]: pam_unix(cron:session): session closed for user root
+Jan  9 15:17:01 raspberrypi CRON[5252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 15:17:01 raspberrypi CRON[5252]: pam_unix(cron:session): session closed for user root
+Jan  9 15:39:01 raspberrypi CRON[5265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 15:39:01 raspberrypi CRON[5265]: pam_unix(cron:session): session closed for user root
+Jan  9 15:45:28 raspberrypi sshd[5278]: Accepted password for luka from 89.164.98.252 port 55115 ssh2
+Jan  9 15:45:28 raspberrypi sshd[5278]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan  9 15:46:40 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/etc/cron.d ; USER=root ; COMMAND=/usr/bin/crontab -e
+Jan  9 15:46:40 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan  9 15:46:56 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan  9 15:46:57 raspberrypi sshd[5278]: pam_unix(sshd:session): session closed for user luka
+Jan  9 16:09:01 raspberrypi CRON[5318]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 16:09:01 raspberrypi CRON[5318]: pam_unix(cron:session): session closed for user root
+Jan  9 16:17:01 raspberrypi CRON[5331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 16:17:01 raspberrypi CRON[5331]: pam_unix(cron:session): session closed for user root
+Jan  9 16:39:01 raspberrypi CRON[5341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 16:39:02 raspberrypi CRON[5341]: pam_unix(cron:session): session closed for user root
+Jan  9 17:09:01 raspberrypi CRON[5356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 17:09:01 raspberrypi CRON[5356]: pam_unix(cron:session): session closed for user root
+Jan  9 17:17:01 raspberrypi CRON[5372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 17:17:01 raspberrypi CRON[5372]: pam_unix(cron:session): session closed for user root
+Jan  9 17:39:01 raspberrypi CRON[5382]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 17:39:02 raspberrypi CRON[5382]: pam_unix(cron:session): session closed for user root
+Jan  9 18:09:01 raspberrypi CRON[5395]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 18:09:01 raspberrypi CRON[5395]: pam_unix(cron:session): session closed for user root
+Jan  9 18:17:01 raspberrypi CRON[5407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 18:17:01 raspberrypi CRON[5407]: pam_unix(cron:session): session closed for user root
+Jan  9 18:39:01 raspberrypi CRON[5419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 18:39:02 raspberrypi CRON[5419]: pam_unix(cron:session): session closed for user root
+Jan  9 19:09:01 raspberrypi CRON[5431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 19:09:01 raspberrypi CRON[5431]: pam_unix(cron:session): session closed for user root
+Jan  9 19:17:01 raspberrypi CRON[5444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 19:17:01 raspberrypi CRON[5444]: pam_unix(cron:session): session closed for user root
+Jan  9 19:39:01 raspberrypi CRON[5454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 19:39:01 raspberrypi CRON[5454]: pam_unix(cron:session): session closed for user root
+Jan  9 20:09:01 raspberrypi CRON[5467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 20:09:02 raspberrypi CRON[5467]: pam_unix(cron:session): session closed for user root
+Jan  9 20:17:01 raspberrypi CRON[5480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 20:17:01 raspberrypi CRON[5480]: pam_unix(cron:session): session closed for user root
+Jan  9 20:39:01 raspberrypi CRON[5490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 20:39:01 raspberrypi CRON[5490]: pam_unix(cron:session): session closed for user root
+Jan  9 21:09:01 raspberrypi CRON[5503]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 21:09:02 raspberrypi CRON[5503]: pam_unix(cron:session): session closed for user root
+Jan  9 21:17:01 raspberrypi CRON[5516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 21:17:01 raspberrypi CRON[5516]: pam_unix(cron:session): session closed for user root
+Jan  9 21:39:01 raspberrypi CRON[5534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 21:39:01 raspberrypi CRON[5534]: pam_unix(cron:session): session closed for user root
+Jan  9 22:09:01 raspberrypi CRON[5546]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 22:09:02 raspberrypi CRON[5546]: pam_unix(cron:session): session closed for user root
+Jan  9 22:17:01 raspberrypi CRON[5558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 22:17:01 raspberrypi CRON[5558]: pam_unix(cron:session): session closed for user root
+Jan  9 22:39:01 raspberrypi CRON[5568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 22:39:01 raspberrypi CRON[5568]: pam_unix(cron:session): session closed for user root
+Jan  9 23:09:01 raspberrypi CRON[5580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 23:09:01 raspberrypi CRON[5580]: pam_unix(cron:session): session closed for user root
+Jan  9 23:17:01 raspberrypi CRON[5593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 23:17:02 raspberrypi CRON[5593]: pam_unix(cron:session): session closed for user root
+Jan  9 23:39:01 raspberrypi CRON[5603]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan  9 23:39:01 raspberrypi CRON[5603]: pam_unix(cron:session): session closed for user root
+Jan 10 00:09:01 raspberrypi CRON[5616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 00:09:01 raspberrypi CRON[5616]: pam_unix(cron:session): session closed for user root
+Jan 10 00:17:01 raspberrypi CRON[5639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 00:17:01 raspberrypi CRON[5639]: pam_unix(cron:session): session closed for user root
+Jan 10 00:39:01 raspberrypi CRON[5662]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 00:39:02 raspberrypi CRON[5662]: pam_unix(cron:session): session closed for user root
+Jan 10 01:09:01 raspberrypi CRON[5675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 01:09:01 raspberrypi CRON[5675]: pam_unix(cron:session): session closed for user root
+Jan 10 01:17:01 raspberrypi CRON[5688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 01:17:01 raspberrypi CRON[5688]: pam_unix(cron:session): session closed for user root
+Jan 10 01:39:01 raspberrypi CRON[5698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 01:39:02 raspberrypi CRON[5698]: pam_unix(cron:session): session closed for user root
+Jan 10 02:09:01 raspberrypi CRON[5710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 02:09:01 raspberrypi CRON[5710]: pam_unix(cron:session): session closed for user root
+Jan 10 02:17:01 raspberrypi CRON[5722]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 02:17:01 raspberrypi CRON[5722]: pam_unix(cron:session): session closed for user root
+Jan 10 02:39:01 raspberrypi CRON[5733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 02:39:02 raspberrypi CRON[5733]: pam_unix(cron:session): session closed for user root
+Jan 10 03:09:01 raspberrypi CRON[5745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 03:09:01 raspberrypi CRON[5745]: pam_unix(cron:session): session closed for user root
+Jan 10 03:17:01 raspberrypi CRON[5758]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 03:17:01 raspberrypi CRON[5758]: pam_unix(cron:session): session closed for user root
+Jan 10 03:39:01 raspberrypi CRON[5768]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 03:39:01 raspberrypi CRON[5768]: pam_unix(cron:session): session closed for user root
+Jan 10 04:09:01 raspberrypi CRON[5782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 04:09:02 raspberrypi CRON[5782]: pam_unix(cron:session): session closed for user root
+Jan 10 04:17:01 raspberrypi CRON[5795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 04:17:01 raspberrypi CRON[5795]: pam_unix(cron:session): session closed for user root
+Jan 10 04:39:01 raspberrypi CRON[5805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 04:39:01 raspberrypi CRON[5805]: pam_unix(cron:session): session closed for user root
+Jan 10 05:09:01 raspberrypi CRON[5818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 05:09:02 raspberrypi CRON[5818]: pam_unix(cron:session): session closed for user root
+Jan 10 05:17:01 raspberrypi CRON[5831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 05:17:01 raspberrypi CRON[5831]: pam_unix(cron:session): session closed for user root
+Jan 10 05:39:01 raspberrypi CRON[5842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 05:39:01 raspberrypi CRON[5842]: pam_unix(cron:session): session closed for user root
+Jan 10 06:09:01 raspberrypi CRON[5854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 06:09:02 raspberrypi CRON[5854]: pam_unix(cron:session): session closed for user root
+Jan 10 06:17:01 raspberrypi CRON[5866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 06:17:01 raspberrypi CRON[5866]: pam_unix(cron:session): session closed for user root
+Jan 10 06:25:01 raspberrypi CRON[5876]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 06:25:04 raspberrypi CRON[5876]: pam_unix(cron:session): session closed for user root
+Jan 10 06:39:01 raspberrypi CRON[5977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 06:39:01 raspberrypi CRON[5977]: pam_unix(cron:session): session closed for user root
+Jan 10 07:09:01 raspberrypi CRON[5991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 07:09:02 raspberrypi CRON[5991]: pam_unix(cron:session): session closed for user root
+Jan 10 07:17:01 raspberrypi CRON[6004]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 07:17:01 raspberrypi CRON[6004]: pam_unix(cron:session): session closed for user root
+Jan 10 07:39:01 raspberrypi CRON[6015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 07:39:01 raspberrypi CRON[6015]: pam_unix(cron:session): session closed for user root
+Jan 10 08:09:01 raspberrypi CRON[6028]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 08:09:01 raspberrypi CRON[6028]: pam_unix(cron:session): session closed for user root
+Jan 10 08:17:01 raspberrypi CRON[6041]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 08:17:02 raspberrypi CRON[6041]: pam_unix(cron:session): session closed for user root
+Jan 10 08:39:01 raspberrypi CRON[6059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 08:39:01 raspberrypi CRON[6059]: pam_unix(cron:session): session closed for user root
+Jan 10 09:09:01 raspberrypi CRON[6072]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 09:09:01 raspberrypi CRON[6072]: pam_unix(cron:session): session closed for user root
+Jan 10 09:17:01 raspberrypi CRON[6085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 09:17:01 raspberrypi CRON[6085]: pam_unix(cron:session): session closed for user root
+Jan 10 09:39:01 raspberrypi CRON[6095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 09:39:02 raspberrypi CRON[6095]: pam_unix(cron:session): session closed for user root
+Jan 10 10:09:01 raspberrypi CRON[6108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 10:09:01 raspberrypi CRON[6108]: pam_unix(cron:session): session closed for user root
+Jan 10 10:17:01 raspberrypi CRON[6120]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 10:17:01 raspberrypi CRON[6120]: pam_unix(cron:session): session closed for user root
+Jan 10 10:39:01 raspberrypi CRON[6132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 10:39:02 raspberrypi CRON[6132]: pam_unix(cron:session): session closed for user root
+Jan 10 11:09:01 raspberrypi CRON[6144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 11:09:01 raspberrypi CRON[6144]: pam_unix(cron:session): session closed for user root
+Jan 10 11:17:01 raspberrypi CRON[6157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 11:17:01 raspberrypi CRON[6157]: pam_unix(cron:session): session closed for user root
+Jan 10 11:39:01 raspberrypi CRON[6167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 11:39:01 raspberrypi CRON[6167]: pam_unix(cron:session): session closed for user root
+Jan 10 12:09:01 raspberrypi CRON[6182]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 12:09:01 raspberrypi CRON[6182]: pam_unix(cron:session): session closed for user root
+Jan 10 12:17:01 raspberrypi CRON[6194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 12:17:01 raspberrypi CRON[6194]: pam_unix(cron:session): session closed for user root
+Jan 10 12:39:01 raspberrypi CRON[6204]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 12:39:01 raspberrypi CRON[6204]: pam_unix(cron:session): session closed for user root
+Jan 10 13:09:01 raspberrypi CRON[6217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 13:09:02 raspberrypi CRON[6217]: pam_unix(cron:session): session closed for user root
+Jan 10 13:17:01 raspberrypi CRON[6230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 13:17:01 raspberrypi CRON[6230]: pam_unix(cron:session): session closed for user root
+Jan 10 13:39:01 raspberrypi CRON[6240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 13:39:01 raspberrypi CRON[6240]: pam_unix(cron:session): session closed for user root
+Jan 10 14:09:01 raspberrypi CRON[6252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 14:09:02 raspberrypi CRON[6252]: pam_unix(cron:session): session closed for user root
+Jan 10 14:17:01 raspberrypi CRON[6264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 14:17:01 raspberrypi CRON[6264]: pam_unix(cron:session): session closed for user root
+Jan 10 14:39:01 raspberrypi CRON[6275]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 14:39:01 raspberrypi CRON[6275]: pam_unix(cron:session): session closed for user root
+Jan 10 15:09:01 raspberrypi CRON[6288]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 15:09:01 raspberrypi CRON[6288]: pam_unix(cron:session): session closed for user root
+Jan 10 15:17:01 raspberrypi CRON[6302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 15:17:02 raspberrypi CRON[6302]: pam_unix(cron:session): session closed for user root
+Jan 10 15:39:01 raspberrypi CRON[6312]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 15:39:01 raspberrypi CRON[6312]: pam_unix(cron:session): session closed for user root
+Jan 10 16:09:01 raspberrypi CRON[6326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 16:09:01 raspberrypi CRON[6326]: pam_unix(cron:session): session closed for user root
+Jan 10 16:17:01 raspberrypi CRON[6339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 16:17:01 raspberrypi CRON[6339]: pam_unix(cron:session): session closed for user root
+Jan 10 16:39:01 raspberrypi CRON[6349]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 16:39:02 raspberrypi CRON[6349]: pam_unix(cron:session): session closed for user root
+Jan 10 17:09:01 raspberrypi CRON[6362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 17:09:01 raspberrypi CRON[6362]: pam_unix(cron:session): session closed for user root
+Jan 10 17:17:01 raspberrypi CRON[6378]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 17:17:01 raspberrypi CRON[6378]: pam_unix(cron:session): session closed for user root
+Jan 10 17:39:01 raspberrypi CRON[6388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 17:39:02 raspberrypi CRON[6388]: pam_unix(cron:session): session closed for user root
+Jan 10 18:09:01 raspberrypi CRON[6400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 18:09:01 raspberrypi CRON[6400]: pam_unix(cron:session): session closed for user root
+Jan 10 18:17:01 raspberrypi CRON[6412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 18:17:01 raspberrypi CRON[6412]: pam_unix(cron:session): session closed for user root
+Jan 10 18:39:01 raspberrypi CRON[6431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 18:39:01 raspberrypi CRON[6431]: pam_unix(cron:session): session closed for user root
+Jan 10 19:09:01 raspberrypi CRON[6443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 19:09:01 raspberrypi CRON[6443]: pam_unix(cron:session): session closed for user root
+Jan 10 19:17:01 raspberrypi CRON[6456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 19:17:01 raspberrypi CRON[6456]: pam_unix(cron:session): session closed for user root
+Jan 10 19:39:01 raspberrypi CRON[6466]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 19:39:01 raspberrypi CRON[6466]: pam_unix(cron:session): session closed for user root
+Jan 10 20:09:01 raspberrypi CRON[6479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 20:09:02 raspberrypi CRON[6479]: pam_unix(cron:session): session closed for user root
+Jan 10 20:17:01 raspberrypi CRON[6492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 20:17:01 raspberrypi CRON[6492]: pam_unix(cron:session): session closed for user root
+Jan 10 20:39:01 raspberrypi CRON[6502]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 20:39:01 raspberrypi CRON[6502]: pam_unix(cron:session): session closed for user root
+Jan 10 21:09:01 raspberrypi CRON[6515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 21:09:02 raspberrypi CRON[6515]: pam_unix(cron:session): session closed for user root
+Jan 10 21:17:01 raspberrypi CRON[6528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 21:17:01 raspberrypi CRON[6528]: pam_unix(cron:session): session closed for user root
+Jan 10 21:39:01 raspberrypi CRON[6538]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 21:39:01 raspberrypi CRON[6538]: pam_unix(cron:session): session closed for user root
+Jan 10 22:09:01 raspberrypi CRON[6551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 22:09:01 raspberrypi CRON[6551]: pam_unix(cron:session): session closed for user root
+Jan 10 22:17:01 raspberrypi CRON[6563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 22:17:02 raspberrypi CRON[6563]: pam_unix(cron:session): session closed for user root
+Jan 10 22:39:01 raspberrypi CRON[6574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 22:39:01 raspberrypi CRON[6574]: pam_unix(cron:session): session closed for user root
+Jan 10 23:09:01 raspberrypi CRON[6586]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 23:09:01 raspberrypi CRON[6586]: pam_unix(cron:session): session closed for user root
+Jan 10 23:17:01 raspberrypi CRON[6599]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 23:17:01 raspberrypi CRON[6599]: pam_unix(cron:session): session closed for user root
+Jan 10 23:39:01 raspberrypi CRON[6609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 10 23:39:02 raspberrypi CRON[6609]: pam_unix(cron:session): session closed for user root
+Jan 11 00:09:01 raspberrypi CRON[6622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 00:09:01 raspberrypi CRON[6622]: pam_unix(cron:session): session closed for user root
+Jan 11 00:17:01 raspberrypi CRON[6635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 00:17:01 raspberrypi CRON[6635]: pam_unix(cron:session): session closed for user root
+Jan 11 00:39:01 raspberrypi CRON[6645]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 00:39:02 raspberrypi CRON[6645]: pam_unix(cron:session): session closed for user root
+Jan 11 01:09:01 raspberrypi CRON[6658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 01:09:01 raspberrypi CRON[6658]: pam_unix(cron:session): session closed for user root
+Jan 11 01:17:01 raspberrypi CRON[6671]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 01:17:01 raspberrypi CRON[6671]: pam_unix(cron:session): session closed for user root
+Jan 11 01:39:01 raspberrypi CRON[6681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 01:39:02 raspberrypi CRON[6681]: pam_unix(cron:session): session closed for user root
+Jan 11 02:09:01 raspberrypi CRON[6694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 02:09:01 raspberrypi CRON[6694]: pam_unix(cron:session): session closed for user root
+Jan 11 02:17:01 raspberrypi CRON[6706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 02:17:01 raspberrypi CRON[6706]: pam_unix(cron:session): session closed for user root
+Jan 11 02:39:01 raspberrypi CRON[6716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 02:39:02 raspberrypi CRON[6716]: pam_unix(cron:session): session closed for user root
+Jan 11 03:09:01 raspberrypi CRON[6728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 03:09:01 raspberrypi CRON[6728]: pam_unix(cron:session): session closed for user root
+Jan 11 03:17:01 raspberrypi CRON[6741]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 03:17:01 raspberrypi CRON[6741]: pam_unix(cron:session): session closed for user root
+Jan 11 03:39:01 raspberrypi CRON[6752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 03:39:01 raspberrypi CRON[6752]: pam_unix(cron:session): session closed for user root
+Jan 11 04:09:01 raspberrypi CRON[6765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 04:09:02 raspberrypi CRON[6765]: pam_unix(cron:session): session closed for user root
+Jan 11 04:17:01 raspberrypi CRON[6778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 04:17:01 raspberrypi CRON[6778]: pam_unix(cron:session): session closed for user root
+Jan 11 04:39:01 raspberrypi CRON[6788]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 04:39:01 raspberrypi CRON[6788]: pam_unix(cron:session): session closed for user root
+Jan 11 05:09:01 raspberrypi CRON[6802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 05:09:02 raspberrypi CRON[6802]: pam_unix(cron:session): session closed for user root
+Jan 11 05:17:01 raspberrypi CRON[6815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 05:17:01 raspberrypi CRON[6815]: pam_unix(cron:session): session closed for user root
+Jan 11 05:39:01 raspberrypi CRON[6825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 05:39:01 raspberrypi CRON[6825]: pam_unix(cron:session): session closed for user root
+Jan 11 06:09:01 raspberrypi CRON[6846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 06:09:02 raspberrypi CRON[6846]: pam_unix(cron:session): session closed for user root
+Jan 11 06:17:01 raspberrypi CRON[6858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 06:17:01 raspberrypi CRON[6858]: pam_unix(cron:session): session closed for user root
+Jan 11 06:25:01 raspberrypi CRON[6868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 06:25:04 raspberrypi CRON[6868]: pam_unix(cron:session): session closed for user root
+Jan 11 06:39:01 raspberrypi CRON[6969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 06:39:01 raspberrypi CRON[6969]: pam_unix(cron:session): session closed for user root
+Jan 11 07:09:01 raspberrypi CRON[6981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 07:09:02 raspberrypi CRON[6981]: pam_unix(cron:session): session closed for user root
+Jan 11 07:17:01 raspberrypi CRON[6994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 07:17:01 raspberrypi CRON[6994]: pam_unix(cron:session): session closed for user root
+Jan 11 07:39:01 raspberrypi CRON[7006]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 07:39:01 raspberrypi CRON[7006]: pam_unix(cron:session): session closed for user root
+Jan 11 08:09:01 raspberrypi CRON[7019]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 08:09:01 raspberrypi CRON[7019]: pam_unix(cron:session): session closed for user root
+Jan 11 08:17:01 raspberrypi CRON[7032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 08:17:02 raspberrypi CRON[7032]: pam_unix(cron:session): session closed for user root
+Jan 11 08:39:01 raspberrypi CRON[7042]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 08:39:01 raspberrypi CRON[7042]: pam_unix(cron:session): session closed for user root
+Jan 11 09:09:01 raspberrypi CRON[7055]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 09:09:01 raspberrypi CRON[7055]: pam_unix(cron:session): session closed for user root
+Jan 11 09:17:01 raspberrypi CRON[7068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 09:17:01 raspberrypi CRON[7068]: pam_unix(cron:session): session closed for user root
+Jan 11 09:39:01 raspberrypi CRON[7079]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 09:39:02 raspberrypi CRON[7079]: pam_unix(cron:session): session closed for user root
+Jan 11 10:09:01 raspberrypi CRON[7091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 10:09:01 raspberrypi CRON[7091]: pam_unix(cron:session): session closed for user root
+Jan 11 10:17:01 raspberrypi CRON[7103]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 10:17:01 raspberrypi CRON[7103]: pam_unix(cron:session): session closed for user root
+Jan 11 10:26:16 raspberrypi sshd[7113]: Accepted password for luka from 89.164.98.252 port 51814 ssh2
+Jan 11 10:26:16 raspberrypi sshd[7113]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 11 10:26:18 raspberrypi sshd[7113]: pam_unix(sshd:session): session closed for user luka
+Jan 11 10:39:01 raspberrypi CRON[7133]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 10:39:02 raspberrypi CRON[7133]: pam_unix(cron:session): session closed for user root
+Jan 11 11:09:01 raspberrypi CRON[7145]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 11:09:01 raspberrypi CRON[7145]: pam_unix(cron:session): session closed for user root
+Jan 11 11:17:01 raspberrypi CRON[7158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 11:17:01 raspberrypi CRON[7158]: pam_unix(cron:session): session closed for user root
+Jan 11 11:39:01 raspberrypi CRON[7168]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 11:39:02 raspberrypi CRON[7168]: pam_unix(cron:session): session closed for user root
+Jan 11 12:09:01 raspberrypi CRON[7181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 12:09:01 raspberrypi CRON[7181]: pam_unix(cron:session): session closed for user root
+Jan 11 12:17:01 raspberrypi CRON[7194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 12:17:01 raspberrypi CRON[7194]: pam_unix(cron:session): session closed for user root
+Jan 11 12:39:01 raspberrypi CRON[7204]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 12:39:01 raspberrypi CRON[7204]: pam_unix(cron:session): session closed for user root
+Jan 11 13:09:01 raspberrypi CRON[7217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 13:09:01 raspberrypi CRON[7217]: pam_unix(cron:session): session closed for user root
+Jan 11 13:17:01 raspberrypi CRON[7230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 13:17:01 raspberrypi CRON[7230]: pam_unix(cron:session): session closed for user root
+Jan 11 13:39:01 raspberrypi CRON[7240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 13:39:01 raspberrypi CRON[7240]: pam_unix(cron:session): session closed for user root
+Jan 11 14:02:04 raspberrypi sshd[7253]: Accepted password for luka from 89.164.98.252 port 57095 ssh2
+Jan 11 14:02:04 raspberrypi sshd[7253]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 11 14:02:47 raspberrypi sshd[7253]: pam_unix(sshd:session): session closed for user luka
+Jan 11 14:09:01 raspberrypi CRON[7290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 14:09:02 raspberrypi CRON[7290]: pam_unix(cron:session): session closed for user root
+Jan 11 14:17:01 raspberrypi CRON[7302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 14:17:01 raspberrypi CRON[7302]: pam_unix(cron:session): session closed for user root
+Jan 11 14:39:01 raspberrypi CRON[7313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 14:39:01 raspberrypi CRON[7313]: pam_unix(cron:session): session closed for user root
+Jan 11 15:09:01 raspberrypi CRON[7325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 15:09:02 raspberrypi CRON[7325]: pam_unix(cron:session): session closed for user root
+Jan 11 15:17:01 raspberrypi CRON[7338]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 15:17:01 raspberrypi CRON[7338]: pam_unix(cron:session): session closed for user root
+Jan 11 15:39:01 raspberrypi CRON[7349]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 15:39:01 raspberrypi CRON[7349]: pam_unix(cron:session): session closed for user root
+Jan 11 16:09:01 raspberrypi CRON[7370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 16:09:02 raspberrypi CRON[7370]: pam_unix(cron:session): session closed for user root
+Jan 11 16:17:01 raspberrypi CRON[7383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 16:17:01 raspberrypi CRON[7383]: pam_unix(cron:session): session closed for user root
+Jan 11 16:39:01 raspberrypi CRON[7393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 16:39:01 raspberrypi CRON[7393]: pam_unix(cron:session): session closed for user root
+Jan 11 17:09:01 raspberrypi CRON[7406]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 17:09:01 raspberrypi CRON[7406]: pam_unix(cron:session): session closed for user root
+Jan 11 17:17:01 raspberrypi CRON[7422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 17:17:01 raspberrypi CRON[7422]: pam_unix(cron:session): session closed for user root
+Jan 11 17:39:02 raspberrypi CRON[7434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 17:39:02 raspberrypi CRON[7434]: pam_unix(cron:session): session closed for user root
+Jan 11 18:09:01 raspberrypi CRON[7450]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 18:09:01 raspberrypi CRON[7450]: pam_unix(cron:session): session closed for user root
+Jan 11 18:17:01 raspberrypi CRON[7462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 18:17:01 raspberrypi CRON[7462]: pam_unix(cron:session): session closed for user root
+Jan 11 18:39:01 raspberrypi CRON[7472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 18:39:02 raspberrypi CRON[7472]: pam_unix(cron:session): session closed for user root
+Jan 11 19:09:01 raspberrypi CRON[7484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 19:09:01 raspberrypi CRON[7484]: pam_unix(cron:session): session closed for user root
+Jan 11 19:17:01 raspberrypi CRON[7497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 19:17:01 raspberrypi CRON[7497]: pam_unix(cron:session): session closed for user root
+Jan 11 19:39:01 raspberrypi CRON[7507]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 19:39:02 raspberrypi CRON[7507]: pam_unix(cron:session): session closed for user root
+Jan 11 20:09:01 raspberrypi CRON[7520]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 20:09:01 raspberrypi CRON[7520]: pam_unix(cron:session): session closed for user root
+Jan 11 20:17:01 raspberrypi CRON[7533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 20:17:01 raspberrypi CRON[7533]: pam_unix(cron:session): session closed for user root
+Jan 11 20:39:01 raspberrypi CRON[7544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 20:39:02 raspberrypi CRON[7544]: pam_unix(cron:session): session closed for user root
+Jan 11 21:09:01 raspberrypi CRON[7557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 21:09:01 raspberrypi CRON[7557]: pam_unix(cron:session): session closed for user root
+Jan 11 21:17:01 raspberrypi CRON[7570]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 21:17:01 raspberrypi CRON[7570]: pam_unix(cron:session): session closed for user root
+Jan 11 21:39:01 raspberrypi CRON[7580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 21:39:02 raspberrypi CRON[7580]: pam_unix(cron:session): session closed for user root
+Jan 11 22:09:01 raspberrypi CRON[7592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 22:09:01 raspberrypi CRON[7592]: pam_unix(cron:session): session closed for user root
+Jan 11 22:17:01 raspberrypi CRON[7605]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 22:17:01 raspberrypi CRON[7605]: pam_unix(cron:session): session closed for user root
+Jan 11 22:39:01 raspberrypi CRON[7616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 22:39:01 raspberrypi CRON[7616]: pam_unix(cron:session): session closed for user root
+Jan 11 23:09:01 raspberrypi CRON[7628]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 23:09:02 raspberrypi CRON[7628]: pam_unix(cron:session): session closed for user root
+Jan 11 23:17:01 raspberrypi CRON[7641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 23:17:01 raspberrypi CRON[7641]: pam_unix(cron:session): session closed for user root
+Jan 11 23:39:01 raspberrypi CRON[7651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 11 23:39:01 raspberrypi CRON[7651]: pam_unix(cron:session): session closed for user root
+Jan 12 00:09:01 raspberrypi CRON[7664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 00:09:02 raspberrypi CRON[7664]: pam_unix(cron:session): session closed for user root
+Jan 12 00:17:01 raspberrypi CRON[7677]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 00:17:01 raspberrypi CRON[7677]: pam_unix(cron:session): session closed for user root
+Jan 12 00:39:01 raspberrypi CRON[7688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 00:39:01 raspberrypi CRON[7688]: pam_unix(cron:session): session closed for user root
+Jan 12 01:09:01 raspberrypi CRON[7701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 01:09:02 raspberrypi CRON[7701]: pam_unix(cron:session): session closed for user root
+Jan 12 01:17:01 raspberrypi CRON[7714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 01:17:01 raspberrypi CRON[7714]: pam_unix(cron:session): session closed for user root
+Jan 12 01:39:01 raspberrypi CRON[7724]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 01:39:01 raspberrypi CRON[7724]: pam_unix(cron:session): session closed for user root
+Jan 12 02:09:01 raspberrypi CRON[7736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 02:09:02 raspberrypi CRON[7736]: pam_unix(cron:session): session closed for user root
+Jan 12 02:17:01 raspberrypi CRON[7748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 02:17:01 raspberrypi CRON[7748]: pam_unix(cron:session): session closed for user root
+Jan 12 02:39:01 raspberrypi CRON[7758]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 02:39:01 raspberrypi CRON[7758]: pam_unix(cron:session): session closed for user root
+Jan 12 03:09:01 raspberrypi CRON[7778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 03:09:01 raspberrypi CRON[7778]: pam_unix(cron:session): session closed for user root
+Jan 12 03:17:01 raspberrypi CRON[7791]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 03:17:01 raspberrypi CRON[7791]: pam_unix(cron:session): session closed for user root
+Jan 12 03:39:01 raspberrypi CRON[7801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 03:39:02 raspberrypi CRON[7801]: pam_unix(cron:session): session closed for user root
+Jan 12 04:09:01 raspberrypi CRON[7814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 04:09:01 raspberrypi CRON[7814]: pam_unix(cron:session): session closed for user root
+Jan 12 04:17:01 raspberrypi CRON[7828]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 04:17:01 raspberrypi CRON[7828]: pam_unix(cron:session): session closed for user root
+Jan 12 04:39:01 raspberrypi CRON[7838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 04:39:02 raspberrypi CRON[7838]: pam_unix(cron:session): session closed for user root
+Jan 12 05:09:01 raspberrypi CRON[7851]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 05:09:01 raspberrypi CRON[7851]: pam_unix(cron:session): session closed for user root
+Jan 12 05:17:01 raspberrypi CRON[7864]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 05:17:01 raspberrypi CRON[7864]: pam_unix(cron:session): session closed for user root
+Jan 12 05:39:01 raspberrypi CRON[7874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 05:39:02 raspberrypi CRON[7874]: pam_unix(cron:session): session closed for user root
+Jan 12 06:09:01 raspberrypi CRON[7886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 06:09:01 raspberrypi CRON[7886]: pam_unix(cron:session): session closed for user root
+Jan 12 06:17:01 raspberrypi CRON[7898]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 06:17:01 raspberrypi CRON[7898]: pam_unix(cron:session): session closed for user root
+Jan 12 06:25:01 raspberrypi CRON[7908]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 06:25:04 raspberrypi CRON[7908]: pam_unix(cron:session): session closed for user root
+Jan 12 06:39:01 raspberrypi CRON[8009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 06:39:02 raspberrypi CRON[8009]: pam_unix(cron:session): session closed for user root
+Jan 12 07:09:01 raspberrypi CRON[8021]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 07:09:01 raspberrypi CRON[8021]: pam_unix(cron:session): session closed for user root
+Jan 12 07:17:01 raspberrypi CRON[8034]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 07:17:01 raspberrypi CRON[8034]: pam_unix(cron:session): session closed for user root
+Jan 12 07:39:01 raspberrypi CRON[8044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 07:39:02 raspberrypi CRON[8044]: pam_unix(cron:session): session closed for user root
+Jan 12 08:09:01 raspberrypi CRON[8057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 08:09:01 raspberrypi CRON[8057]: pam_unix(cron:session): session closed for user root
+Jan 12 08:17:01 raspberrypi CRON[8070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 08:17:01 raspberrypi CRON[8070]: pam_unix(cron:session): session closed for user root
+Jan 12 08:39:01 raspberrypi CRON[8080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 08:39:01 raspberrypi CRON[8080]: pam_unix(cron:session): session closed for user root
+Jan 12 09:09:01 raspberrypi CRON[8093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 09:09:02 raspberrypi CRON[8093]: pam_unix(cron:session): session closed for user root
+Jan 12 09:17:01 raspberrypi CRON[8106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 09:17:01 raspberrypi CRON[8106]: pam_unix(cron:session): session closed for user root
+Jan 12 09:39:01 raspberrypi CRON[8118]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 09:39:01 raspberrypi CRON[8118]: pam_unix(cron:session): session closed for user root
+Jan 12 10:09:01 raspberrypi CRON[8130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 10:09:02 raspberrypi CRON[8130]: pam_unix(cron:session): session closed for user root
+Jan 12 10:17:01 raspberrypi CRON[8142]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 10:17:01 raspberrypi CRON[8142]: pam_unix(cron:session): session closed for user root
+Jan 12 10:39:01 raspberrypi CRON[8152]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 10:39:01 raspberrypi CRON[8152]: pam_unix(cron:session): session closed for user root
+Jan 12 11:09:01 raspberrypi CRON[8164]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 11:09:02 raspberrypi CRON[8164]: pam_unix(cron:session): session closed for user root
+Jan 12 11:17:01 raspberrypi CRON[8177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 11:17:01 raspberrypi CRON[8177]: pam_unix(cron:session): session closed for user root
+Jan 12 11:39:01 raspberrypi CRON[8187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 11:39:01 raspberrypi CRON[8187]: pam_unix(cron:session): session closed for user root
+Jan 12 12:09:01 raspberrypi CRON[8209]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 12:09:01 raspberrypi CRON[8209]: pam_unix(cron:session): session closed for user root
+Jan 12 12:17:01 raspberrypi CRON[8222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 12:17:01 raspberrypi CRON[8222]: pam_unix(cron:session): session closed for user root
+Jan 12 12:39:02 raspberrypi CRON[8233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 12:39:02 raspberrypi CRON[8233]: pam_unix(cron:session): session closed for user root
+Jan 12 13:09:01 raspberrypi CRON[8246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 13:09:01 raspberrypi CRON[8246]: pam_unix(cron:session): session closed for user root
+Jan 12 13:17:01 raspberrypi CRON[8259]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 13:17:01 raspberrypi CRON[8259]: pam_unix(cron:session): session closed for user root
+Jan 12 13:39:01 raspberrypi CRON[8269]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 13:39:02 raspberrypi CRON[8269]: pam_unix(cron:session): session closed for user root
+Jan 12 14:09:01 raspberrypi CRON[8282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 14:09:01 raspberrypi CRON[8282]: pam_unix(cron:session): session closed for user root
+Jan 12 14:17:01 raspberrypi CRON[8294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 14:17:01 raspberrypi CRON[8294]: pam_unix(cron:session): session closed for user root
+Jan 12 14:39:01 raspberrypi CRON[8305]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 14:39:02 raspberrypi CRON[8305]: pam_unix(cron:session): session closed for user root
+Jan 12 15:09:01 raspberrypi CRON[8318]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 15:09:01 raspberrypi CRON[8318]: pam_unix(cron:session): session closed for user root
+Jan 12 15:17:01 raspberrypi CRON[8332]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 15:17:01 raspberrypi CRON[8332]: pam_unix(cron:session): session closed for user root
+Jan 12 15:39:01 raspberrypi CRON[8342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 15:39:02 raspberrypi CRON[8342]: pam_unix(cron:session): session closed for user root
+Jan 12 16:09:01 raspberrypi CRON[8356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 16:09:01 raspberrypi CRON[8356]: pam_unix(cron:session): session closed for user root
+Jan 12 16:17:01 raspberrypi CRON[8369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 16:17:01 raspberrypi CRON[8369]: pam_unix(cron:session): session closed for user root
+Jan 12 16:39:01 raspberrypi CRON[8380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 16:39:01 raspberrypi CRON[8380]: pam_unix(cron:session): session closed for user root
+Jan 12 17:09:01 raspberrypi CRON[8394]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 17:09:02 raspberrypi CRON[8394]: pam_unix(cron:session): session closed for user root
+Jan 12 17:17:01 raspberrypi CRON[8407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 17:17:01 raspberrypi CRON[8407]: pam_unix(cron:session): session closed for user root
+Jan 12 17:39:01 raspberrypi CRON[8420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 17:39:01 raspberrypi CRON[8420]: pam_unix(cron:session): session closed for user root
+Jan 12 18:09:01 raspberrypi CRON[8432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 18:09:02 raspberrypi CRON[8432]: pam_unix(cron:session): session closed for user root
+Jan 12 18:17:01 raspberrypi CRON[8444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 18:17:01 raspberrypi CRON[8444]: pam_unix(cron:session): session closed for user root
+Jan 12 18:33:55 raspberrypi sshd[8454]: Accepted password for luka from 192.168.5.10 port 58847 ssh2
+Jan 12 18:33:55 raspberrypi sshd[8454]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 12 18:34:32 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/vi secure
+Jan 12 18:34:32 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan 12 18:34:41 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan 12 18:35:05 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/vi auth.log
+Jan 12 18:35:05 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan 12 18:39:01 raspberrypi CRON[8481]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 18:39:01 raspberrypi CRON[8481]: pam_unix(cron:session): session closed for user root
+Jan 12 18:41:15 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan 12 18:41:23 raspberrypi sshd[8493]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.5.10  user=luka
+Jan 12 18:41:25 raspberrypi sshd[8493]: Failed password for luka from 192.168.5.10 port 59193 ssh2
+Jan 12 18:41:27 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/vi auth.log
+Jan 12 18:41:27 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan 12 18:42:46 raspberrypi sshd[8493]: Accepted password for luka from 192.168.5.10 port 59193 ssh2
+Jan 12 18:42:46 raspberrypi sshd[8493]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 12 18:42:50 raspberrypi sshd[8493]: pam_unix(sshd:session): session closed for user luka
+Jan 12 18:42:54 raspberrypi sudo: pam_unix(sudo:session): session closed for user root
+Jan 12 18:42:55 raspberrypi sshd[8454]: pam_unix(sshd:session): session closed for user luka
+Jan 12 19:09:01 raspberrypi CRON[8516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 19:09:02 raspberrypi CRON[8516]: pam_unix(cron:session): session closed for user root
+Jan 12 19:17:01 raspberrypi CRON[8529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 19:17:01 raspberrypi CRON[8529]: pam_unix(cron:session): session closed for user root
+Jan 12 19:39:01 raspberrypi CRON[8539]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 19:39:01 raspberrypi CRON[8539]: pam_unix(cron:session): session closed for user root
+Jan 12 20:09:01 raspberrypi CRON[8552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 20:09:01 raspberrypi CRON[8552]: pam_unix(cron:session): session closed for user root
+Jan 12 20:17:01 raspberrypi CRON[8565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 20:17:02 raspberrypi CRON[8565]: pam_unix(cron:session): session closed for user root
+Jan 12 20:39:01 raspberrypi CRON[8575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 20:39:01 raspberrypi CRON[8575]: pam_unix(cron:session): session closed for user root
+Jan 12 21:09:01 raspberrypi CRON[8588]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 21:09:01 raspberrypi CRON[8588]: pam_unix(cron:session): session closed for user root
+Jan 12 21:17:01 raspberrypi CRON[8601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 21:17:01 raspberrypi CRON[8601]: pam_unix(cron:session): session closed for user root
+Jan 12 21:39:01 raspberrypi CRON[8612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 21:39:02 raspberrypi CRON[8612]: pam_unix(cron:session): session closed for user root
+Jan 12 22:09:01 raspberrypi CRON[8624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 22:09:01 raspberrypi CRON[8624]: pam_unix(cron:session): session closed for user root
+Jan 12 22:17:01 raspberrypi CRON[8636]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 22:17:01 raspberrypi CRON[8636]: pam_unix(cron:session): session closed for user root
+Jan 12 22:39:01 raspberrypi CRON[8646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 22:39:02 raspberrypi CRON[8646]: pam_unix(cron:session): session closed for user root
+Jan 12 23:09:01 raspberrypi CRON[8658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 23:09:01 raspberrypi CRON[8658]: pam_unix(cron:session): session closed for user root
+Jan 12 23:17:01 raspberrypi CRON[8671]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 23:17:01 raspberrypi CRON[8671]: pam_unix(cron:session): session closed for user root
+Jan 12 23:39:01 raspberrypi CRON[8681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 12 23:39:02 raspberrypi CRON[8681]: pam_unix(cron:session): session closed for user root
+Jan 13 00:09:01 raspberrypi CRON[8702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 00:09:01 raspberrypi CRON[8702]: pam_unix(cron:session): session closed for user root
+Jan 13 00:17:01 raspberrypi CRON[8715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 00:17:01 raspberrypi CRON[8715]: pam_unix(cron:session): session closed for user root
+Jan 13 00:39:01 raspberrypi CRON[8725]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 00:39:01 raspberrypi CRON[8725]: pam_unix(cron:session): session closed for user root
+Jan 13 01:09:01 raspberrypi CRON[8738]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 01:09:02 raspberrypi CRON[8738]: pam_unix(cron:session): session closed for user root
+Jan 13 01:17:01 raspberrypi CRON[8751]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 01:17:01 raspberrypi CRON[8751]: pam_unix(cron:session): session closed for user root
+Jan 13 01:39:01 raspberrypi CRON[8761]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 01:39:01 raspberrypi CRON[8761]: pam_unix(cron:session): session closed for user root
+Jan 13 02:09:01 raspberrypi CRON[8773]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 02:09:02 raspberrypi CRON[8773]: pam_unix(cron:session): session closed for user root
+Jan 13 02:17:01 raspberrypi CRON[8785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 02:17:01 raspberrypi CRON[8785]: pam_unix(cron:session): session closed for user root
+Jan 13 02:39:01 raspberrypi CRON[8796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 02:39:01 raspberrypi CRON[8796]: pam_unix(cron:session): session closed for user root
+Jan 13 03:09:01 raspberrypi CRON[8808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 03:09:02 raspberrypi CRON[8808]: pam_unix(cron:session): session closed for user root
+Jan 13 03:17:01 raspberrypi CRON[8821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 03:17:01 raspberrypi CRON[8821]: pam_unix(cron:session): session closed for user root
+Jan 13 03:39:01 raspberrypi CRON[8832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 03:39:01 raspberrypi CRON[8832]: pam_unix(cron:session): session closed for user root
+Jan 13 04:09:01 raspberrypi CRON[8845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 04:09:02 raspberrypi CRON[8845]: pam_unix(cron:session): session closed for user root
+Jan 13 04:17:01 raspberrypi CRON[8858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 04:17:01 raspberrypi CRON[8858]: pam_unix(cron:session): session closed for user root
+Jan 13 04:39:01 raspberrypi CRON[8869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 04:39:01 raspberrypi CRON[8869]: pam_unix(cron:session): session closed for user root
+Jan 13 05:09:01 raspberrypi CRON[8882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 05:09:01 raspberrypi CRON[8882]: pam_unix(cron:session): session closed for user root
+Jan 13 05:17:01 raspberrypi CRON[8895]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 05:17:01 raspberrypi CRON[8895]: pam_unix(cron:session): session closed for user root
+Jan 13 05:39:02 raspberrypi CRON[8905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 05:39:02 raspberrypi CRON[8905]: pam_unix(cron:session): session closed for user root
+Jan 13 06:09:01 raspberrypi CRON[8917]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 06:09:01 raspberrypi CRON[8917]: pam_unix(cron:session): session closed for user root
+Jan 13 06:17:01 raspberrypi CRON[8929]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 06:17:01 raspberrypi CRON[8929]: pam_unix(cron:session): session closed for user root
+Jan 13 06:25:01 raspberrypi CRON[8939]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 06:25:05 raspberrypi CRON[8939]: pam_unix(cron:session): session closed for user root
+Jan 13 06:39:01 raspberrypi CRON[9040]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 06:39:01 raspberrypi CRON[9040]: pam_unix(cron:session): session closed for user root
+Jan 13 07:09:01 raspberrypi CRON[9052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 07:09:01 raspberrypi CRON[9052]: pam_unix(cron:session): session closed for user root
+Jan 13 07:17:01 raspberrypi CRON[9065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 07:17:01 raspberrypi CRON[9065]: pam_unix(cron:session): session closed for user root
+Jan 13 07:39:01 raspberrypi CRON[9076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 07:39:02 raspberrypi CRON[9076]: pam_unix(cron:session): session closed for user root
+Jan 13 08:09:01 raspberrypi CRON[9089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 08:09:01 raspberrypi CRON[9089]: pam_unix(cron:session): session closed for user root
+Jan 13 08:17:01 raspberrypi CRON[9102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 08:17:01 raspberrypi CRON[9102]: pam_unix(cron:session): session closed for user root
+Jan 13 08:39:01 raspberrypi CRON[9112]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 08:39:02 raspberrypi CRON[9112]: pam_unix(cron:session): session closed for user root
+Jan 13 09:09:01 raspberrypi CRON[9125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 09:09:01 raspberrypi CRON[9125]: pam_unix(cron:session): session closed for user root
+Jan 13 09:17:01 raspberrypi CRON[9138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 09:17:01 raspberrypi CRON[9138]: pam_unix(cron:session): session closed for user root
+Jan 13 09:35:23 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): check pass; user unknown
+Jan 13 09:35:23 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= 
+Jan 13 09:39:01 raspberrypi CRON[9158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 09:39:02 raspberrypi CRON[9158]: pam_unix(cron:session): session closed for user root
+Jan 13 10:09:01 raspberrypi CRON[9172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 10:09:01 raspberrypi CRON[9172]: pam_unix(cron:session): session closed for user root
+Jan 13 10:17:01 raspberrypi CRON[9184]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 10:17:01 raspberrypi CRON[9184]: pam_unix(cron:session): session closed for user root
+Jan 13 10:39:01 raspberrypi CRON[9195]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 10:39:01 raspberrypi CRON[9195]: pam_unix(cron:session): session closed for user root
+Jan 13 11:09:01 raspberrypi CRON[9207]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 11:09:02 raspberrypi CRON[9207]: pam_unix(cron:session): session closed for user root
+Jan 13 11:17:01 raspberrypi CRON[9220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 11:17:01 raspberrypi CRON[9220]: pam_unix(cron:session): session closed for user root
+Jan 13 11:39:01 raspberrypi CRON[9230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 11:39:01 raspberrypi CRON[9230]: pam_unix(cron:session): session closed for user root
+Jan 13 12:09:01 raspberrypi CRON[9243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 12:09:02 raspberrypi CRON[9243]: pam_unix(cron:session): session closed for user root
+Jan 13 12:13:25 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): check pass; user unknown
+Jan 13 12:13:25 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= 
+Jan 13 12:17:01 raspberrypi CRON[9258]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 12:17:01 raspberrypi CRON[9258]: pam_unix(cron:session): session closed for user root
+Jan 13 12:39:01 raspberrypi CRON[9268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 12:39:01 raspberrypi CRON[9268]: pam_unix(cron:session): session closed for user root
+Jan 13 13:09:01 raspberrypi CRON[9281]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 13:09:02 raspberrypi CRON[9281]: pam_unix(cron:session): session closed for user root
+Jan 13 13:10:04 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): check pass; user unknown
+Jan 13 13:10:04 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= 
+Jan 13 13:17:01 raspberrypi CRON[9296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 13:17:01 raspberrypi CRON[9296]: pam_unix(cron:session): session closed for user root
+Jan 13 13:39:01 raspberrypi CRON[9307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 13:39:01 raspberrypi CRON[9307]: pam_unix(cron:session): session closed for user root
+Jan 13 14:03:12 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): check pass; user unknown
+Jan 13 14:03:12 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= 
+Jan 13 14:09:01 raspberrypi CRON[9321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 14:09:01 raspberrypi CRON[9321]: pam_unix(cron:session): session closed for user root
+Jan 13 14:17:02 raspberrypi CRON[9333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 14:17:02 raspberrypi CRON[9333]: pam_unix(cron:session): session closed for user root
+Jan 13 14:39:01 raspberrypi CRON[9343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 14:39:01 raspberrypi CRON[9343]: pam_unix(cron:session): session closed for user root
+Jan 13 14:56:22 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): check pass; user unknown
+Jan 13 14:56:22 raspberrypi xrdp-sesman: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost= 
+Jan 13 15:09:01 raspberrypi CRON[9357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 15:09:01 raspberrypi CRON[9357]: pam_unix(cron:session): session closed for user root
+Jan 13 15:17:01 raspberrypi CRON[9370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 15:17:01 raspberrypi CRON[9370]: pam_unix(cron:session): session closed for user root
+Jan 13 15:39:01 raspberrypi CRON[9380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 15:39:02 raspberrypi CRON[9380]: pam_unix(cron:session): session closed for user root
+Jan 13 16:09:01 raspberrypi CRON[9393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 16:09:01 raspberrypi CRON[9393]: pam_unix(cron:session): session closed for user root
+Jan 13 16:17:01 raspberrypi CRON[9406]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 16:17:01 raspberrypi CRON[9406]: pam_unix(cron:session): session closed for user root
+Jan 13 16:39:01 raspberrypi CRON[9416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 16:39:02 raspberrypi CRON[9416]: pam_unix(cron:session): session closed for user root
+Jan 13 17:09:01 raspberrypi CRON[9429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 17:09:01 raspberrypi CRON[9429]: pam_unix(cron:session): session closed for user root
+Jan 13 17:17:01 raspberrypi CRON[9442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 17:17:01 raspberrypi CRON[9442]: pam_unix(cron:session): session closed for user root
+Jan 13 17:39:01 raspberrypi CRON[9456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 17:39:02 raspberrypi CRON[9456]: pam_unix(cron:session): session closed for user root
+Jan 13 18:09:01 raspberrypi CRON[9468]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 18:09:01 raspberrypi CRON[9468]: pam_unix(cron:session): session closed for user root
+Jan 13 18:17:01 raspberrypi CRON[9480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 18:17:01 raspberrypi CRON[9480]: pam_unix(cron:session): session closed for user root
+Jan 13 18:35:53 raspberrypi sshd[9490]: Accepted password for luka from 192.168.5.10 port 61547 ssh2
+Jan 13 18:35:53 raspberrypi sshd[9490]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 13 18:39:01 raspberrypi CRON[9512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 13 18:39:02 raspberrypi CRON[9512]: pam_unix(cron:session): session closed for user root
+Jan 13 18:42:59 raspberrypi sudo:     luka : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/vi auth.log
+Jan 13 18:42:59 raspberrypi sudo: pam_unix(sudo:session): session opened for user root by luka(uid=0)
+Jan 13 18:44:19 raspberrypi sshd[9526]: Did not receive identification string from 192.168.5.10
+Jan 13 18:44:28 raspberrypi sshd[9529]: Accepted password for luka from 192.168.5.10 port 61600 ssh2
+Jan 13 18:44:28 raspberrypi sshd[9529]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 13 18:44:29 raspberrypi sshd[9533]: subsystem request for sftp by user luka
+Jan 13 18:45:28 raspberrypi sshd[9536]: Accepted password for luka from 192.168.5.10 port 61601 ssh2
+Jan 13 18:45:28 raspberrypi sshd[9536]: pam_unix(sshd:session): session opened for user luka by (uid=0)
+Jan 13 18:45:28 raspberrypi sshd[9540]: subsystem request for sftp by user luka
+Jan 13 18:46:04 raspberrypi sshd[9529]: pam_unix(sshd:session): session closed for user luka
+Jan 13 18:46:51 raspberrypi sshd[9536]: pam_unix(sshd:session): session closed for user luka
+Jan 13 18:46:51 raspberrypi sshd[9542]: Accepted password for root from 192.168.5.10 port 61605 ssh2
+Jan 13 18:46:51 raspberrypi sshd[9542]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jan 13 18:46:51 raspberrypi sshd[9542]: subsystem request for sftp by user root
+Jan 13 18:47:04 raspberrypi sshd[9547]: Accepted password for root from 192.168.5.10 port 61606 ssh2
+Jan 13 18:47:04 raspberrypi sshd[9547]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jan 13 18:47:04 raspberrypi sshd[9547]: subsystem request for sftp by user root

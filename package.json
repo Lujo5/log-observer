@@ -1,0 +1,22 @@
+{
+  "name": "log-observer",
+  "version": "1.0.0",
+  "description": "Service for monitoring log files",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "observer",
+    "monitoring",
+    "security"
+  ],
+  "author": "Luka Matosevic",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "fs": "0.0.1-security",
+    "nodemailer": "^2.7.2"
+  }
+}
