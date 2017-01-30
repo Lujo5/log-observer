@@ -6,7 +6,7 @@ var WebhookNotifier = require("./notifiers/webhook-notifier");
 var EmailNotifier = require("./notifiers/email-notifier");
 var WebsocketNotifier = require("./notifiers/websocket-notifier");
 
-function WatchedFile(path, encoding, patterns, notifiers, size) {
+function Observer(path, encoding, patterns, notifiers, size) {
     this.path = path;
     this.encoding = encoding;
     this.patterns = generatePatterns(patterns, path);
@@ -80,7 +80,7 @@ function generateNotifiers(notifiers, path) {
     return notifiersArray;
 }
 
-WatchedFile.prototype.processChange = function (stats) {
+Observer.prototype.processChange = function (stats) {
     this.newSize = stats.size;
     if (this.lastSize > this.newSize) {
         this.lastSize = this.newSize;
@@ -107,4 +107,4 @@ WatchedFile.prototype.processChange = function (stats) {
     }.bind(this))
 };
 
-module.exports = WatchedFile;
+module.exports = Observer;

@@ -1,22 +1,22 @@
 var chokidar = require("chokidar");
 var fs = require("fs");
 var config = require("../resources/config.json");
-var WatchedFile = require("./watched-file");
+var Observer = require("./observer");
 
-var files = {};
+var observers = {};
 
 config.files.forEach(function (file) {
     var stats = fs.statSync(file.path);
-    files[file.path] = new WatchedFile(file.path, file.encoding, file.patterns, file.notifiers, stats["size"]);
+    observers[file.path] = new Observer(file.path, file.encoding, file.patterns, file.notifiers, stats["size"]);
 });
 
-if (files.length == 0) {
+if (observers.length == 0) {
     console.error("Zero files configured");
     process.exit(1);
 }
 
 var watcher = chokidar.watch(
-    Object.keys(files), {
+    Object.keys(observers), {
         alwaysStat: true,
         awaitWriteFinish: {
             stabilityThreshold: 1000,
@@ -26,6 +26,6 @@ var watcher = chokidar.watch(
 );
 
 watcher.on('change', function (path, stats) {
-    var watchedFile = files[path];
+    var watchedFile = observers[path];
     watchedFile.processChange(stats);
 });
