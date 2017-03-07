@@ -17,6 +17,7 @@ function Observer(path, encoding, patterns, notifiers, size) {
 
 function generatePatterns(patterns, path) {
     var patternsArray = [];
+
     for (var patternName in patterns) {
         if (patterns.hasOwnProperty(patternName)) {
             var pattern = patterns[patternName];
@@ -44,6 +45,7 @@ function generatePatterns(patterns, path) {
 
 function generateNotifiers(notifiers, path) {
     var notifiersArray = [];
+
     for (var notifierName in notifiers) {
         if (notifiers.hasOwnProperty(notifierName)) {
             var notifier = notifiers[notifierName];
@@ -86,6 +88,7 @@ Observer.prototype.processChange = function (stats) {
         this.lastSize = this.newSize;
         return;
     }
+
     var readStream = fs.createReadStream(this.path, {
             start: this.lastSize,
             end: this.newSize,
@@ -93,6 +96,7 @@ Observer.prototype.processChange = function (stats) {
             encoding: this.encoding
         }
     );
+    
     readStream.on('data', function (chunk) {
         this.patterns.forEach(function (pattern) {
             var match = pattern.processChunk(chunk);
