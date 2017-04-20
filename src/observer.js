@@ -19,13 +19,14 @@ function generatePatterns(patterns, endpoint) {
             var description = pattern["description"] || patternName;
             var patternString = pattern["pattern"];
             var caseSensitive = pattern["case_sensitive"] || false;
+            var changeOnly = pattern["change_only"] || false;
 
             if (!patternString || !(typeof patternString == "string")) {
                 console.error("Invalid or undefined pattern value for " + patternName + " event");
                 process.exit(2);
             }
 
-            var patternObject = new Pattern(patternName, description, patternString, caseSensitive);
+            var patternObject = new Pattern(patternName, description, patternString, caseSensitive, changeOnly);
             patternsArray.push(patternObject);
         }
     }

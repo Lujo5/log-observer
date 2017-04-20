@@ -17,6 +17,7 @@
   "dependencies": {
     "chokidar": "^1.6.1",
     "fs": "0.0.1-security",
+    "node-schedule": "^1.2.1",
     "nodemailer": "^2.7.2"
   }
 }

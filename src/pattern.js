@@ -1,8 +1,10 @@
-function Pattern(name, description, pattern, caseSensitive) {
+function Pattern(name, description, pattern, caseSensitive, changeOnly) {
     this.name = name;
     this.description = description;
     this.pattern = pattern;
     this.caseSensitive = caseSensitive;
+    this.changeOnly = changeOnly;
+    this.oldValue = null;
 }
 
 Pattern.prototype.checkData = function (data) {
@@ -13,7 +15,17 @@ Pattern.prototype.checkData = function (data) {
         patternRegEx = new RegExp(this.pattern, 'gi');
     }
 
-    return patternRegEx.exec(data);
+    var result = patternRegEx.exec(data);
+
+    if (this.changeOnly && result != null && result.length > 0) {
+        var match = result[0];
+        if (this.oldValue != null && this.oldValue == match) {
+            result = null;
+        }
+        this.oldValue = match;
+    }
+
+    return result;
 };
 
 module.exports = Pattern;
