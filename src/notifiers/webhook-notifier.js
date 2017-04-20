@@ -46,7 +46,7 @@ function sendReport(destUrl, report) {
     req.end();
 }
 
-WebhookNotifier.prototype.sendNotification = function (report, patternName) {
+WebhookNotifier.prototype.notify = function (report, patternName) {
     this.urls.forEach(function (destUrl) {
         sendReport(destUrl, patternName + ": " + report);
     });

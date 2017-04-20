@@ -1,17 +1,17 @@
 var chokidar = require("chokidar");
 var fs = require("fs");
 var config = require("../resources/config.json");
-var Observer = require("./observer");
+var FileObserver = require("./observers/file-observer");
 
 var observers = {};
 
 config.files.forEach(function (file) {
     var stats = fs.statSync(file.path);
-    observers[file.path] = new Observer(file.path, file.encoding, file.patterns, file.notifiers, stats["size"]);
+    observers[file.path] = new FileObserver(file.patterns, file.notifiers, file.path, file.encoding, stats["size"]);
 });
 
 if (observers.length == 0) {
-    console.error("Zero files configured");
+    console.error("Zero observers configured");
     process.exit(1);
 }
 
@@ -27,5 +27,5 @@ var watcher = chokidar.watch(
 
 watcher.on('change', function (path, stats) {
     var watchedFile = observers[path];
-    watchedFile.processChange(stats);
+    watchedFile.process(stats);
 });

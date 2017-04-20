@@ -5,7 +5,7 @@ function Pattern(name, description, pattern, caseSensitive) {
     this.caseSensitive = caseSensitive;
 }
 
-Pattern.prototype.processChunk = function (chunk) {
+Pattern.prototype.checkData = function (data) {
     var patternRegEx = null;
     if (this.caseSensitive) {
         patternRegEx = new RegExp(this.pattern, 'g');
@@ -13,7 +13,7 @@ Pattern.prototype.processChunk = function (chunk) {
         patternRegEx = new RegExp(this.pattern, 'gi');
     }
 
-    return patternRegEx.exec(chunk);
+    return patternRegEx.exec(data);
 };
 
 module.exports = Pattern;

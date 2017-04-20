@@ -8,7 +8,7 @@ function EmailNotifier(subject, from, to, conf) {
     this.transporter = nodemailer.createTransport(conf);
 }
 
-EmailNotifier.prototype.sendNotification = function (report, patternName) {
+EmailNotifier.prototype.notify = function (report, patternName) {
     var mailData = {
         from: this.from,
         to: this.to.join(", "),

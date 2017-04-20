@@ -9,7 +9,7 @@ function FileNotifier(path, encoding, separator) {
     });
 }
 
-FileNotifier.prototype.sendNotification = function (report, patternName) {
+FileNotifier.prototype.notify = function (report, patternName) {
     this.writer.write(patternName + ": " + report + this.separator);
 };
 

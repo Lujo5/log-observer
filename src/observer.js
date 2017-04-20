@@ -1,4 +1,3 @@
-var fs = require("fs");
 var Pattern = require("./pattern");
 var StdoutNotifier = require("./notifiers/stdout-notifier");
 var FileNotifier = require("./notifiers/file-notifier");
@@ -6,16 +5,12 @@ var WebhookNotifier = require("./notifiers/webhook-notifier");
 var EmailNotifier = require("./notifiers/email-notifier");
 var WebsocketNotifier = require("./notifiers/websocket-notifier");
 
-function Observer(path, encoding, patterns, notifiers, size) {
-    this.path = path;
-    this.encoding = encoding;
-    this.patterns = generatePatterns(patterns, path);
-    this.notifiers = generateNotifiers(notifiers, path);
-    this.lastSize = size;
-    this.newSize = null;
+function Observer(patterns, notifiers, endpoint) {
+    this.patterns = generatePatterns(patterns, endpoint);
+    this.notifiers = generateNotifiers(notifiers, endpoint);
 }
 
-function generatePatterns(patterns, path) {
+function generatePatterns(patterns, endpoint) {
     var patternsArray = [];
 
     for (var patternName in patterns) {
@@ -36,14 +31,14 @@ function generatePatterns(patterns, path) {
     }
 
     if (patternsArray.length == 0) {
-        console.error("Zero patterns defined for file " + path);
+        console.error("Zero patterns defined for " + endpoint);
         process.exit(3);
     }
 
     return patternsArray;
 }
 
-function generateNotifiers(notifiers, path) {
+function generateNotifiers(notifiers, endpoint) {
     var notifiersArray = [];
 
     for (var notifierName in notifiers) {
@@ -75,40 +70,23 @@ function generateNotifiers(notifiers, path) {
     }
 
     if (notifiersArray.length == 0) {
-        console.error("Zero notifiers defined for file " + path);
+        console.error("Zero notifiers defined for " + endpoint);
         process.exit(5);
     }
 
     return notifiersArray;
 }
 
-Observer.prototype.processChange = function (stats) {
-    this.newSize = stats.size;
-    if (this.lastSize > this.newSize) {
-        this.lastSize = this.newSize;
-        return;
-    }
-
-    var readStream = fs.createReadStream(this.path, {
-            start: this.lastSize,
-            end: this.newSize,
-            bufferSize: this.newSize - this.lastSize,
-            encoding: this.encoding
+Observer.prototype.checkAndNotify = function(data) {
+    this.patterns.forEach(function (pattern) {
+        var match = pattern.checkData(data);
+        if (match != null && match.length > 0) {
+            var report = match[0];
+            this.notifiers.forEach(function (notifier) {
+                notifier.notify(report, pattern.name);
+            });
         }
-    );
-    
-    readStream.on('data', function (chunk) {
-        this.patterns.forEach(function (pattern) {
-            var match = pattern.processChunk(chunk);
-            if (match != null && match.length > 0) {
-                var report = match[0];
-                this.notifiers.forEach(function (notifier) {
-                    notifier.sendNotification(report, pattern.name);
-                });
-            }
-        }.bind(this));
-        this.lastSize = this.newSize;
-    }.bind(this))
+    }.bind(this));
 };
 
 module.exports = Observer;
