@@ -9,8 +9,9 @@ var WebObserver = require("./observers/web-observer");
 var fileObservers = {};
 
 config.files.forEach(function (file) {
-    var stats = fs.statSync(file.path);
-    fileObservers[file.path] = new FileObserver(file.patterns, file.notifiers, file.path, file.encoding, stats["size"]);
+    var safePath = file.path.replace(new RegExp("\\\\", 'g'), "/");
+    var stats = fs.statSync(safePath);
+    fileObservers[safePath] = new FileObserver(file.patterns, file.notifiers, safePath, file.encoding, stats["size"]);
 });
 
 var watcher = chokidar.watch(
@@ -35,7 +36,7 @@ var webObservers = {};
 
 config.web_pages.forEach(function (page) {
     var webObserver = new WebObserver(page.patterns, page.notifiers, page.url);
-    scheduler.scheduleJob(page.cron, function () {
+    webObserver.scheduledJob = scheduler.scheduleJob(page.cron, function () {
         webObserver.process();
     });
     webObservers[page.url] = webObserver;

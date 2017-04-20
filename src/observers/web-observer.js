@@ -1,15 +1,48 @@
+var http = require('follow-redirects').http;
+var https = require('follow-redirects').https;
+var url = require("url");
 var Observer = require("../observer");
 
-function WebObserver(patterns, notifiers, url) {
-    this.observer = new Observer(patterns, notifiers, url);
-    this.pageUrl = url;
+function WebObserver(patterns, notifiers, urlString) {
+    this.observer = new Observer(patterns, notifiers, urlString);
+    this.parsedUrl = url.parse(urlString);
+    this.scheduledJob = null;
 }
 
 WebObserver.prototype.process = function () {
-    //get page from url
-    console.log("fetching data from url: " + this.pageUrl);
+    var options = {
+        host: this.parsedUrl.hostname,
+        port: this.parsedUrl.port,
+        path: this.parsedUrl.path,
+        method: 'GET',
+        headers: {
+            accept: '*/*'
+        }
+    };
 
-    this.observer.checkAndNotify("");
+    var req = null;
+    if (this.parsedUrl.protocol.indexOf("https") > -1) {
+        req = https.request(options, this._processResponse.bind(this));
+    } else {
+        req = http.request(options, this._processResponse.bind(this));
+    }
+
+    req.end();
+};
+
+WebObserver.prototype.cancelScheduler = function () {
+    this.scheduledJob.cancel();
+};
+
+WebObserver.prototype._processResponse = function(res) {
+    var statusCode = res.statusCode;
+    res.on('data', function (data) {
+        if (statusCode == 200) {
+            this.observer.checkAndNotify(data);
+        } else {
+            console.error("Web status code: " + statusCode + ", from: " + this.parsedUrl.href);
+        }
+    }.bind(this));
 };
 
 module.exports = WebObserver;

@@ -1,5 +1,5 @@
-var Observer = require("../observer");
 var fs = require("fs");
+var Observer = require("../observer");
 
 function FileObserver(patterns, notifiers, path, encoding, size) {
     this.observer = new Observer(patterns, notifiers, path);
