@@ -41,3 +41,7 @@ config.web_pages.forEach(function (page) {
     });
     webObservers[page.url] = webObserver;
 });
+
+console.log("File observers configured: " + Object.keys(fileObservers).length);
+console.log("Web observers configured: " + Object.keys(webObservers).length);
+console.log("Observers successfully initialized");

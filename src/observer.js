@@ -18,6 +18,7 @@ function generatePatterns(patterns, endpoint) {
             var pattern = patterns[patternName];
             var description = pattern["description"] || patternName;
             var patternString = pattern["pattern"];
+            var showGroup = pattern["show_group"] || 0;
             var caseSensitive = pattern["case_sensitive"] || false;
             var changeOnly = pattern["change_only"] || false;
 
@@ -26,7 +27,7 @@ function generatePatterns(patterns, endpoint) {
                 process.exit(2);
             }
 
-            var patternObject = new Pattern(patternName, description, patternString, caseSensitive, changeOnly);
+            var patternObject = new Pattern(patternName, description, patternString, showGroup, caseSensitive, changeOnly);
             patternsArray.push(patternObject);
         }
     }
@@ -78,13 +79,12 @@ function generateNotifiers(notifiers, endpoint) {
     return notifiersArray;
 }
 
-Observer.prototype.checkAndNotify = function(data) {
+Observer.prototype.checkAndNotify = function (data) {
     this.patterns.forEach(function (pattern) {
-        var match = pattern.checkData(data);
-        if (match != null && match.length > 0) {
-            var report = match[0];
+        var result = pattern.checkData(data);
+        if (result != null) {
             this.notifiers.forEach(function (notifier) {
-                notifier.notify(report, pattern.name);
+                notifier.notify(result, pattern.name);
             });
         }
     }.bind(this));

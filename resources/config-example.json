@@ -10,12 +10,16 @@
         "login_success": {
           "description": "Successful login via SSH",
           "pattern": "Accepted password for ([^\\s]+) from ([^\\s]+)",
-          "case_sensitive": false
+          "show_group": 0,
+          "case_sensitive": false,
+          "change_only": false
         },
         "login_failed": {
           "description": "Failed login via SSH",
           "pattern": "Failed password for ([^\\s]+) from ([^\\s]+)",
-          "case_sensitive": false
+          "show_group": 0,
+          "case_sensitive": false,
+          "change_only": true
         }
       },
       "notifiers": {
@@ -51,6 +55,29 @@
         },
         "websocket": {
           "url": "domain.com/websocket"
+        }
+      }
+    }
+  ],
+  "web_pages": [
+    {
+      "url": "https://www.google.com",
+      "cron": "0 */3 * * * *",
+      "patterns": {
+        "web_value_changed": {
+          "description": "Web value changed",
+          "pattern": "<span>([^\\s]+)</span>",
+          "show_group": 1,
+          "case_sensitive": false,
+          "change_only": true
+        }
+      },
+      "notifiers": {
+        "stdout": true,
+        "file": {
+          "path": "../sample/observed.txt",
+          "encoding": "utf-8",
+          "separator": "\r\n"
         }
       }
     }
