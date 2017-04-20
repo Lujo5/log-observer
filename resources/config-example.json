@@ -62,7 +62,7 @@
   "web_pages": [
     {
       "url": "https://www.google.com",
-      "cron": "0 */3 * * * *",
+      "cron": "0 */5 9-17 * * 1-5",
       "patterns": {
         "web_value_changed": {
           "description": "Web value changed",
