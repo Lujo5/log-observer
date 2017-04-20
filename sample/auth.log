@@ -3,3 +3,4 @@ Jan 13 18:46:51 raspberrypi sshd[9542]: Accepted password for root from 192.168.
 Jan 13 18:46:51 raspberrypi sshd[9542]: Accepted passwsdard for root from 192.168.5.10 port 61605 ssh2
 Jan 13 18:46:51 raspberrypi sshd[9542]: Accepted password for user from 192.168.5.10 port 61605 ssh2
 Jan 13 18:46:51 raspberrypi sshd[9542]: Accepted password for user from 192.168.5.10 port 61605 ssh2
+Jan 13 18:46:51 raspberrypi sshd[9542]: Failed password for user from 192.168.5.10 port 61605 ssh2
