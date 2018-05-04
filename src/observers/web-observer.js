@@ -27,6 +27,10 @@ WebObserver.prototype.process = function () {
         req = http.request(options, this._processResponse.bind(this));
     }
 
+    req.on("error", function (err) {
+        console.log("Http request timeout: " + err.message);
+    });
+
     req.end();
 };
 
@@ -34,10 +38,10 @@ WebObserver.prototype.cancelScheduler = function () {
     this.scheduledJob.cancel();
 };
 
-WebObserver.prototype._processResponse = function(res) {
+WebObserver.prototype._processResponse = function (res) {
     var statusCode = res.statusCode;
     res.on('data', function (data) {
-        if (statusCode == 200) {
+        if (statusCode === 200) {
             this.observer.checkAndNotify(data);
         } else {
             console.error("Web status code: " + statusCode + ", from: " + this.parsedUrl.href);
