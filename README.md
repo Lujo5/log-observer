@@ -28,7 +28,7 @@ pm2 start src/main.js --name log-observer
 ```
 
 ## Configuration
-Configuration file is locatedg in folder `resources` and must be named `config.json`.
+Configuration file is located in folder `resources` and must be named `config.json`.
 Example configuration:
 
 ```json
