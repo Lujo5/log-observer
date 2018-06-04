@@ -16,7 +16,7 @@ Example use-case is observing the ssh logs in order to be alerted about unwanted
 Clone this repository from master branch:
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/Lujo5/log-observer
 ```
 
 And just run the main.js from src folder using node or pm2:
